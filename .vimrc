@@ -11,7 +11,7 @@ set cursorcolumn
 " Set shift width to 4 spaces.
 set shiftwidth=4
 
-" Set tab width to 4 columns.
+" Set tab width to 2 columns.
 set tabstop=2
 
 " Use space characters instead of tabs.
