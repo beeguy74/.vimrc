@@ -18,3 +18,5 @@ set tabstop=2
 set expandtab
 set laststatus=2
 set statusline+=%F
+" When using automatic compilation of your code
+set backupcopy=yes
